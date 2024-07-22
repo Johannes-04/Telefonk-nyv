@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\phonebook_application_magyar\phonebook_application_magyar\bin\Debug\phonebook_application_magyar.exe.config
+C:\Users\user\Desktop\phonebook_application_magyar\phonebook_application_magyar\bin\Debug\phonebook_application_magyar.exe
+C:\Users\user\Desktop\phonebook_application_magyar\phonebook_application_magyar\bin\Debug\phonebook_application_magyar.pdb
+C:\Users\user\Desktop\phonebook_application_magyar\phonebook_application_magyar\obj\Debug\phonebook_application_magyar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\phonebook_application_magyar\phonebook_application_magyar\obj\Debug\phonebook_application_magyar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\phonebook_application_magyar\phonebook_application_magyar\obj\Debug\phonebook_application_magyar.exe
+C:\Users\user\Desktop\phonebook_application_magyar\phonebook_application_magyar\obj\Debug\phonebook_application_magyar.pdb
